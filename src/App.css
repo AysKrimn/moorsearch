@@ -1,0 +1,138 @@
+#siteNav {
+
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+
+}
+
+.basic-header {
+
+    border-radius: 0 !important;
+    border: 0 !important;
+    position: relative;
+    top: 57px;
+}
+
+.logo {
+
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
+}
+
+.no-border {
+
+    border: 0 !important;
+}
+
+.basic-card-border {
+
+    border-radius: 20px;
+    border: 1px solid gainsboro;
+}
+
+.card-image-border {
+
+    border: 1px solid gainsboro;
+}
+
+.bg-light-gray {
+
+    background: #f9f9f9;
+    padding: 1rem;
+}
+
+
+.react-calendar-datetime-picker .input-picker .input-picker--input {
+
+    background: #212529 !important;
+    color: white !important;
+}
+
+
+#row-3 .card-text {
+
+    letter-spacing: 0.7px;
+    margin-top: 2em;
+    color: rgba(33, 37, 41, 0.75);
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+
+#row-3 .h5 {
+
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+
+
+#row-4 {
+
+    background-color: #f9f9f9;
+}
+#row-4 .card-body {
+
+    min-height: 196px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+#row-4 .author {
+
+    padding: 8px;
+}
+
+.author a {
+
+    color: #494949;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.author a:hover {
+
+    color: blue;
+}
+
+#row-4 .card-img-top {
+
+    aspect-ratio: 1/1;
+}
+
+
+.card-details {
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+
+footer ul {
+
+    list-style-type: none;
+}
+
+.copy {
+
+    background-color: #121212;
+}
+
+
+.icon-container {
+
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.icon-container ion-icon {
+    cursor: pointer;
+}
